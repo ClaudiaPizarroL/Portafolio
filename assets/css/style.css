@@ -1,0 +1,86 @@
+body {
+  background-color: black;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #ffffff
+  
+}
+
+
+header {
+  background-image: url("../img/header.jpg");
+}
+
+#inicio{
+    background: url("../img/header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 100%;
+    color: white;
+    text-align: center;
+    
+}
+
+#titulo{
+    font-weight: 300;
+}
+
+.presentacion {
+    border: solid;
+    border-radius: 30px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: rgb(172, 106, 115);
+}
+
+#collage {
+    border-radius: 1rem;
+}
+
+span {
+    color: rgb(172, 106, 115);
+}
+
+.btn {
+    border: solid;
+    border-color: rgb(172, 106, 115);
+    
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bd-violet-bg);
+    --bs-tooltip-color: var(--bs-white);
+  }
+
+  i {
+    color: rgb(172, 106, 115);
+    font-size: 3rem;
+  }
+
+  .card {
+    border: solid;
+    border-color: rgb(172, 106, 115);
+    border-width: 5px;
+    border-radius: 20px;
+    padding: 10px;
+    color: #ffffff;
+  }
+  .card-body {
+    background-color: black;
+    border-width: 5px;
+    border-color: rgb(172, 106, 115);
+    color: #ffffff;
+  }
+
+  #tecnologia {
+    background: url("../img/img3.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
